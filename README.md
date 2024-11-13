@@ -21,18 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+História do Tito dinossauro gerado por IA e contada pelo Papai.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+História do Tito dinossauro criado por IA esse animal favorito do Isaac de 2 anos. Essa história gerada por IA, com foto do Tito gerada por IA e vídeo da história contado pelo Papai.
+Finalizando com um vídeo do do Vovô com voz do Papai, afinal é o Papai ou o Vovô? :-)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+História gerada pelo Gemini e foto ilustrativa da história gerada pelo Leonardo AI, e vídeo produzido no D-ID.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Meu filho ama dinossauro logo a ideia era criar uma história que pudesse chamar a atenção do Isaac meu filho e apresentar a história.
+No final com um vídeo onde conto a história e outro vídeo desafio, quem é Vovô ou o Papai?
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Meu filho amou a foto gerada pelo Leonardo AI, pois mostra dinossauro e banana, coisas que ele ama.
+Os dois vídeos foram muito legais, o trabalho foi bem interessante e as possibilidades são enormes.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
